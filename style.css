@@ -1,0 +1,38 @@
+.backgroundimg{
+    background-image: url("samplebackground.jpg");
+}
+
+img.skill1{
+    float:left;
+    height:200px;
+    width:200px;
+}
+
+img.skill2{
+    float:left;
+    height:200px;
+    width:200px;
+}
+
+div.skill1{
+    height:200px;
+    height:200px;
+
+}
+
+div.skill2{
+    height:200px;
+    height:200px;
+    
+}
+
+.last-container{
+    height:500px;
+    width:500px;
+}
+
+.contact-links{
+    display:flex;
+    gap:30px;
+    justify-content: center;
+}
